@@ -5,7 +5,7 @@
 
 
 import pandas as pd
-house = pd.read_csv('C://Users//MY PC//desktop//DATASETS//ml_house_data_set.csv')
+house = pd.read_csv('ml_house_data_set.csv')
 
 
 # In[2]:
@@ -218,16 +218,16 @@ test_rmse
 # In[31]:
 
 
-lr.intercept_
+#lr.intercept_
 
 
 # In[32]:
 
 
-lr.coef_
+#lr.coef_
 
 
-# In[ ]:
+
 
 
 
