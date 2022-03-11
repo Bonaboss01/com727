@@ -42,7 +42,7 @@ y = [5, 1, 3]
 # predict y_predicted2
 
 total_loss1 = 0
-total_loss2=0
+total_loss2 = 0
 
 #use for loop to find total_loss1 and total_loss2
 

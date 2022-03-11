@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
+import mglearn
 
 # generate dataset, make_forge() is a data set.
 import matplotlib.pyplot as plt
